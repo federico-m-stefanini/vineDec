@@ -1,2 +1,2 @@
 # vineDec
-A Bayesian causal model to support decisions on treatments against Plasmopara viticola (submitted).
+A Bayesian Network to support decisions on treatments against Plasmopara viticola (submitted).
